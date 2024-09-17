@@ -14,3 +14,7 @@ I found this article interesting because it addresses a question that many devel
 
 ### My thoughts - Sahar
 Something I found interesting in this article is that the usage of AI in software development processes will require for more rigorous testing due to the process becoming shorter. While AI may be a bit scary at times, I find this particular usage of it to be helpful as it allows developers to focus on smaller details and perfect their design or catch bugs quicker.
+
+### comment
+
+I think the article in interesting because it emphasis the common challenges of migrating and maintaining legacy applications across different architectures and the necessity of creating customized visual tools to address these challenges.
